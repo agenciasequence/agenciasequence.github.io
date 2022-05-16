@@ -4324,7 +4324,12 @@ input, select, textarea {
 		background:#be3232;
 		padding:30px;
 	}
+	#boxo{
+		background:#be3232;
+		padding:30px;
+	}
+	
 }
 .vid {
-	width:100%; height:auto;
+	width:auto; height:100%;
 }
