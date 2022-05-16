@@ -4322,22 +4322,10 @@ input, select, textarea {
 @media all and (max-width:1153px){
 	.fixer{
 		background:#be3232;
-		padding:30px;
-	}
-	#boxo1{
-		background:#be3232;
-		padding:30px;
-	}
-	#boxo2{
-		background:#be3232;
-		padding:30px;
-	}
-	#boxo3{
-		background:#be3232;
-		padding:30px;
+		padding:30px !important;
 	}
 	
 }
 .vid {
-	width:auto; height:100%;
+	width:100%; height:360px;
 }
